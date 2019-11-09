@@ -23,6 +23,7 @@ This terminal game is powered by Gonzalo Ciruelos's [maggot game](https://github
 To use this terminal game download the zip file or clone the repository, decompress it to a folder named "Snake_Impact". Use gcc to compile game and generate executable.
 
 ```
+>> cd src
 >> gcc -o Snake_Impact Snake_Impact.c
 >> ./Snake_Impact
 ```
